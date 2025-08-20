@@ -30,6 +30,21 @@ This setup is designed to run **entirely on your local machine**, combining **OB
 C:\Program Files\
 ```
 
+#### Shortcut: Make Desktop Shortcuts
+```
+C:\Program Files\OBS-Studio\bin\64bit\obs64.exe
+```
+```
+C:\Program Files\OBS-Studio\Streamer.bot\Streamer.bot.exe
+```
+```
+C:\Program Files\OBS-Studio\Speaker.bot\Speaker.bot.exe
+```
+```
+C:\Program Files\OBS-Studio\YouTube_Music\YouTube Music.exe
+```
+
+
 #### Streamer.bot
 - Platforms > **Twitch** > Accounts > Login (Broadcaster Account & Bot Account)  
 - Integrations > **Streamlabs** > Login  
