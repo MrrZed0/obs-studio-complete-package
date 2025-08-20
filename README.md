@@ -2,7 +2,7 @@
 
 This setup is designed to run **entirely on your local machine**, combining **OBS-Studio**, **Streamer.bot**, and **Speaker.bot** for a complete streaming experience. Everything is self-contained and customizable, with overlays, alerts, music integration, and more.
 
-## 📦Latest Release
+## 📦Latest Release [Updated: 8/20/2025]
 📦 [Download Latest Release](https://mrzed0.com/wp-content/uploads/OBS-Studio-Public.zip)
 
 ---
