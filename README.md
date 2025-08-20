@@ -2,6 +2,9 @@
 
 This setup is designed to run **entirely on your local machine**, combining **OBS-Studio**, **Streamer.bot**, and **Speaker.bot** for a complete streaming experience. Everything is self-contained and customizable, with overlays, alerts, music integration, and more.
 
+## 📦Latest Release
+📦 [Download Latest Release](https://mrzed0.com/wp-content/uploads/OBS-Studio-Public.zip)
+
 ---
 
 ## 📦 Included in this Pack
@@ -14,7 +17,7 @@ This setup is designed to run **entirely on your local machine**, combining **OB
 - **Channel Rewards** for adding songs or random song plays
 - **Music Player Overlay** for YouTube Music
 - **End Stream Credits**
-- Common Twitch Commands: `!so`, `!lurk`
+- Common Twitch Commands: `!so`, `!lurk` With Custom Random Chat Message & Overlay
 - **Be Right Back** Twitch clips overlay
 - **Custom Shoutouts Overlay** with chat messages
 - Pre-configured **OBS Scenes**: Starting Soon, BRB, Live, Ending, etc.
