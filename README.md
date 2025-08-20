@@ -25,6 +25,11 @@ This setup is designed to run **entirely on your local machine**, combining **OB
 
 ### Log In To The Following To Make Everything Work
 
+#### Location: Unpack The OBS-Studio Folder To
+```
+C:\Program Files\
+```
+
 #### Streamer.bot
 - Platforms > **Twitch** > Accounts > Login (Broadcaster Account & Bot Account)  
 - Integrations > **Streamlabs** > Login  
