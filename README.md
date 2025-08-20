@@ -7,7 +7,7 @@ This setup is designed to run **entirely on your local machine**, combining **OB
 ## 📦 Included in this Pack
 - **OBS-Studio** (Streaming software)
 - **Streamer.bot** (Automation & alerts)
-- **Speaker.bot** (Audio-based alerts)
+- **Speaker.bot** configuration files for TTS (speaks every chat message + alerts to streamer)
 - **YouTube Music App Integration**
 - **Custom Alerts** with animations + randomized sounds from a folder
 - **YouTube Music Overlays** with chat messages on song change
@@ -18,6 +18,28 @@ This setup is designed to run **entirely on your local machine**, combining **OB
 - **Be Right Back** Twitch clips overlay
 - **Custom Shoutouts Overlay** with chat messages
 - Pre-configured **OBS Scenes**: Starting Soon, BRB, Live, Ending, etc.
+
+---
+
+## 🛠️ Setup Instructions
+
+### Log In To The Following To Make Everything Work
+
+#### Streamer.bot
+- Platforms > **Twitch** > Accounts > Login (Broadcaster Account & Bot Account)  
+- Integrations > **Streamlabs** > Login  
+- Integrations > **StreamElements** > Login  
+- Integrations > **Streamer.bot Website** > Login 
+
+#### Speaker.bot
+- Settings > Accounts > **Twitch** > Login  
+- Settings > Accounts > **Streamer.bot Website** > Login  
+- Settings > Accounts > **Streamlabs** > Login  
+- Settings > Accounts > **StreamElements** > Login  
+
+#### OBS-Studio
+- Settings > **Stream** > Connect Account  
+
 
 ---
 
@@ -190,3 +212,9 @@ C:/Program Files/OBS-Studio/Files/Sources/Webcam [FullScreen]/Background_Overlay
 ---
 
 ✨ With this setup, you’ll have a **fully functional streaming package** — local, customizable, and ready to go with OBS, Streamer.bot, and Speaker.bot.
+
+---
+
+## 📜 License
+
+This project is open-source and available under the **MIT License**.
