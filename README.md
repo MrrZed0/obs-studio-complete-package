@@ -140,27 +140,28 @@ Pre-configured alerts:
 ---
 
 ### 🎁 Custom Channel Rewards
-Add via: `Platforms > Twitch > Channel Point Rewards`
+Add via Streamer.bot: `Platforms > Twitch > Channel Point Rewards`
 
-#### Examples:
+#### Streamer.bot Rewards:
 
 - **Addams Family Theme Song**
-  - Plays theme song on redemption.
+  - Thanks for the vibes, You're officially lurking in the shadows. Kick back, mute if needed, and let the stream play while you handle life stuff. Your support still counts big time!
 
 - **Lurk Mode Activated**
-  - Message + lurking overlay.
+  - Thanks for the vibes, You're officially lurking in the shadows. Kick back, mute if needed, and let the stream play while you handle life stuff. Your support still counts big time!
 
 - **Official Tittie-o-Meter**
-  - Funny randomized result.
+  - Step right up! The Tittie-o-Meter has spoken, and it’s time to reveal the official size. 100% accurate, totally scientific, and guaranteed to cause at least one giggle.
 
 - **Peen-o-Meter 3000**
-  - Comedy “measurement.”
+  - Think you’ve got what it takes? Redeem this and let the all-knowing Peen-o-Meter 3000 scientifically (and 100% accurately… not really) determine your official Twitch peen size. Results may shock you. Confidence may skyrocket. Viewer discretion advised.
 
 - **SillyMeter**
-  - Measures silliness for fun.
+  - Redeem this to find out just how silly you are. Get ready for some goofy fun and playful vibes in chat!
+
 
 - **Wetness Meter**
-  - Splashy and goofy effect.
+  - Redeem this reward to see how wett you are right now! Get ready for some splashy fun and silly chat moments.
 
 - **SPLAT**
   - On-screen splat animation.
