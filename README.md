@@ -21,6 +21,8 @@ This setup is designed to run **entirely on your local machine**, combining **OB
 - **Be Right Back** Twitch clips overlay
 - **Custom Shoutouts Overlay** with chat messages
 - Pre-configured **OBS Scenes**: Starting Soon, BRB, Live, Ending, etc.
+- Shoutout Player Playing Twitch Clips Using Streamer.bot
+- Alerts, Shoutout Player, Overlays, Sound Alerts Are All Running Local Using Streamer.bot
 
 ---
 
